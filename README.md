@@ -1,15 +1,11 @@
-# Hello, I'm yushi
+# 👋 Hello, I'm yushi
 A software developer from the Netherlands!
 
-### 🌱 Currently learning
-
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
-
-### 📫 Reach me
+## 📫 Contact
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.gg/YzWCDx6Vva)
 
-## Tools & Technologies
+## 🪛 Tools & Technologies
 
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
