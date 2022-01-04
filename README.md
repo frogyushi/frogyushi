@@ -1,4 +1,4 @@
-# Hello, i'm yushi
+# Hello, I'm yushi
 A software developer from the Netherlands!
 
 - 🌱 Currently learning **MongoDB**
