@@ -4,4 +4,4 @@ i'm yushi. a software developer in the netherlands! i frequently tinker with dis
 
 # languages
 
-- [![JavaScript](http://3con14.biz/code/_data/js/intro/js-logo.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
