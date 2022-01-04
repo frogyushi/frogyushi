@@ -1,5 +1,5 @@
-# hello there!
-my name is josh, i'm a software developer residing in the netherlands! i frequently tinker with discord.js and have plenty experience on it. i have some projects on discord.js so feel free to check them out.</p>
+# hello, i'm yushi
+a software developer from the netherlands!
 ## tools & technologies
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&color=%23FFCE5A)](https://www.javascript.com/)
