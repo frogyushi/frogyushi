@@ -5,6 +5,7 @@ A software developer from the Netherlands!
 - 📫 Contact me here!
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.gg/YzWCDx6Vva)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:ja.zuijderwijk80@gmail.com)
 
 ## 🪛 Tools & Technologies
   
