@@ -2,6 +2,7 @@
 A software developer from the Netherlands!
 
 - 🌱 Currently learning MongoDB
+- 📫 Reach me using [Discord](https://discord.gg/Vzs4QamdNg)
 
 ## Tools & Technologies
 
