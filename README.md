@@ -24,4 +24,4 @@ Tools & applications:
 ## Projects
 
 - [hazel](https://github.com/frogyushi/hazel) ― a multi-purpose, moderation/music @discord.js bot using mongoose.
-- [bbqer](https://github.com/frogyushi/bbqer) ― simple web-based 2D cooking game made using JavaScript, HTML, and CSS. 
+- [bbqer](https://github.com/frogyushi/bbqer) ― simple 2D web-based cooking game made by using JavaScript, HTML, and CSS. 
