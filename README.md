@@ -24,4 +24,4 @@ Hi, I'm Josh―a software developer from the Netherlands. Working on providing f
 ## Projects
 
 - [**hazel**](https://github.com/frogyushi/hazel) ― a multi-purpose, moderation/music @discord.js bot using mongoose.
-- [**bbqer**](https://github.com/frogyushi/bbqer) ― a simple 2D web-based cooking game made by using pure JavaScript, HTML, and CSS. 
+- [**bbqer**](https://github.com/frogyushi/bbqer) ― a simple 2D web-based game made by using pure JavaScript, HTML, and CSS. 
