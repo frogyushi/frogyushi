@@ -8,13 +8,13 @@ Hi, I'm Josh―a software developer from the Netherlands. Working on providing f
 
 ## Experience
 
-Languages:
+**Languages:**
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&color=%23FFCE5A)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=ffffff)](https://www.php.net/)
 
-Tools & applications:
+**Tools & applications:**
   
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-6762A6?style=for-the-badge&logo=Heroku&logoColor=ffffff)](https://www.heroku.com)
