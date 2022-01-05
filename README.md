@@ -19,6 +19,7 @@ Hi, I'm Josh―a software developer from the Netherlands. Working on providing f
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![Heroku](https://img.shields.io/badge/-Heroku-6762A6?style=for-the-badge&logo=Heroku&logoColor=ffffff)](https://www.heroku.com)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
+[![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=ffffff)](https://www.mongodb.com/)
 
 ## Projects
