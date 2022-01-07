@@ -11,7 +11,6 @@ Hi, I'm Josh―a software developer from the Netherlands. Working on providing f
 **Languages:**
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&color=%23FFCE5A)](https://www.javascript.com/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=ffffff)](https://www.php.net/)
 
 **Tools & applications:**
