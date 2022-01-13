@@ -1,5 +1,6 @@
 # @yushi
-Hi, I'm Josh―a software developer from the Netherlands. Working on providing fun & useful functionalities on discord via bots. Knowledge in front― & back-end development.
+Hi, I'm Josh―a software developer from the Netherlands with knowledge in front― & back-end development.<br>
+Working on providing fun & useful functionalities on discord via bots.
 
 **I can be contacted via:**
 
