@@ -2,7 +2,7 @@
 Hi, I'm Josh―a software developer from the Netherlands with knowledge in front― & back-end development.<br>
 Working on providing fun & useful functionalities on discord using bots.
 
-**I can be contacted via:**
+**Reach me:**
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discord.gg/YzWCDx6Vva)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:ja.zuijderwijk80@gmail.com)
